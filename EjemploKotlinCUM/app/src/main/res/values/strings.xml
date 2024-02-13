@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EjemploKotlinCUM</string>
+    <string name="nombre">Ingrese el nombre</string>
+    <string name="carnet">Ingrese el Carnet</string>
+    <string name="cum">Ingrese el CUM</string>
+    <string name="UV">UV:</string>
+    <string name="enviar">Enviar</string>
+    <string name="Nombrecum">CUM</string>
+
+</resources>
